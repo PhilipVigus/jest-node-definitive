@@ -1,0 +1,16 @@
+{
+  "name": "jest-node-definitive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.9.6",
+    "jest": "^26.0.1"
+  }
+}
